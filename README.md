@@ -1,4 +1,4 @@
-# Responsive Beginner JS Project with Smooth Scroll
+# 🖌️ Responsive Beginner JS Project with Smooth Scroll
 
 <img src="capa.png" alt="capa color">
 
